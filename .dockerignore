@@ -1,0 +1,7 @@
+outputs
+__pycache__
+.pytest_cache
+.venv
+.git
+.DS_Store
+
